@@ -128,7 +128,7 @@ http://localhost/crm-oop
 
 ## 📱 Fitur WhatsApp
 
-Nomor otomatis diformat ke standar internasional:
+Simpan nomor dengan format standar internasional:
 
 ```
 08xxxx → 628xxxx
